@@ -49,9 +49,8 @@ To verify GPU availability:
 
 Open Google Colab:
 
-[https://colab.research.google.com](https://colab.research.google.com/drive/16B5xWX-PwpbNiIUHEhpsV53nH72GWtsJ?usp=sharing)
-
-Enable GPU:
+[[https://colab.research.google.com](https://colab.research.google.com/drive/16B5xWX-PwpbNiIUHEhpsV53nH72GWtsJ?usp=sharing)
+]
 
 Runtime → Change runtime type → GPU
 
